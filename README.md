@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonwill2004&label=Profile%20views&color=0e75b6&style=flat" alt="jasonwill2004" /> </p>
 
-- 🌱 I’m currently learning **Backend Web development**
+- 🌱 I’m currently learning **Next.jst**
 
 - 📫 How to reach me **jasonwilliam9894@gmail.com**
 
